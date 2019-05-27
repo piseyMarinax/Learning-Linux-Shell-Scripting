@@ -5,22 +5,22 @@
 Course : Learning Linux Shell Scripting 
 
 1/ Shell Scripting Basic 
-   1- Printing to console	
-Touch hello.sh
-Open -a PhpStorm ./
-Input “echo Hellow, world”.
-Bash hello.sh 
-  2- chmod
-./hello.sh => “Permission denied”
-chmod 755 hello.sh 
-./hello.sh => “working”
+   Printing to console	
+-  Touch hello.sh
+-  Open -a PhpStorm ./
+-  Input “echo Hellow, world”.
+-  Bash hello.sh 
+2- chmod
+- ./hello.sh => “Permission denied”
+- chmod 755 hello.sh 
+- ./hello.sh => “working”
 3- Commnet
-Use this sign before line “#”
+- Use this sign before line “#”
 4- The shebang
-#!/usr/bin/env bash => user only bash 
+- #!/usr/bin/env bash => user only bash 
 5- Creating and using variable
-Touch greeting.sh
-Chmod 755 greeting.sh
+- Touch greeting.sh
+- Chmod 755 greeting.sh
 
 Variable
 - Must begin with a letter or an underscore
